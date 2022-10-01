@@ -1,0 +1,24 @@
+"fold no.1: batch_size - 32, emb_dim - 512, rnn_units - 1024, BEST_RESULT - 0.055778782814741135
+"
+"fold no.2: batch_size - 64, emb_dim - 512, rnn_units - 1024, BEST_RESULT - 0.05732347443699837
+"
+"fold no.3: batch_size - 32, emb_dim - 512, rnn_units - 512, BEST_RESULT - 0.0996202677488327
+"
+"fold no.4: batch_size - 8, emb_dim - 512, rnn_units - 512, BEST_RESULT - 0.07257774472236633
+"
+"fold no.5: batch_size - 16, emb_dim - 128, rnn_units - 256, BEST_RESULT - 0.808870792388916
+"
+"fold no.6: batch_size - 8, emb_dim - 128, rnn_units - 512, BEST_RESULT - 0.08712083101272583
+"
+"fold no.7: batch_size - 32, emb_dim - 1024, rnn_units - 1024, BEST_RESULT - 0.05567044019699097
+"
+"fold no.8: batch_size - 32, emb_dim - 256, rnn_units - 512, BEST_RESULT - 0.10388431698083878
+"
+"fold no.9: batch_size - 32, emb_dim - 1024, rnn_units - 1024, BEST_RESULT - 0.05625876039266586
+"
+"fold no.10: batch_size - 8, emb_dim - 512, rnn_units - 1024, BEST_RESULT - 0.05561910197138786
+"
+"fold no.11: batch_size - 64, emb_dim - 128, rnn_units - 512, BEST_RESULT - 0.21345007419586182
+"
+"fold no.12: batch_size - 64, emb_dim - 256, rnn_units - 1024, BEST_RESULT - 0.05816836282610893
+"
